@@ -1,0 +1,19 @@
+{
+  "name": "node-red-contrib-example-lower-case",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "lower-case.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielPora/Node-Red.git"
+  },
+  "author": "GabrielPora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielPora/Node-Red/issues"
+  },
+  "homepage": "https://github.com/GabrielPora/Node-Red#readme"
+}
