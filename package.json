@@ -1,11 +1,7 @@
 {
   "name": "node-red-contrib-example-lower-case",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "tutorial",
-  "main": "lower-case.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GabrielPora/Node-Red.git"
@@ -15,5 +11,14 @@
   "bugs": {
     "url": "https://github.com/GabrielPora/Node-Red/issues"
   },
-  "homepage": "https://github.com/GabrielPora/Node-Red#readme"
+  "homepage": "https://github.com/GabrielPora/Node-Red#readme",
+
+  "keywords": [
+	"node-red"
+],
+"node-red": {
+	"nodes": {
+		"sample": "lower-case.js"
+	}
+}
 }
