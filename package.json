@@ -12,13 +12,15 @@
     "url": "https://github.com/GabrielPora/Node-Red/issues"
   },
   "homepage": "https://github.com/GabrielPora/Node-Red#readme",
-
   "keywords": [
-	"node-red"
-],
-"node-red": {
-	"nodes": {
-		"sample": "lower-case.js"
-	}
-}
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "sample": "lower-case.js"
+    }
+  },
+  "dependencies": {
+    "node-red": "^1.0.2"
+  }
 }
